@@ -1,12 +1,12 @@
-# CasteWorks - Custom WordPress Framework -- In Progress
+# CastleWorks - Custom WordPress Framework -- In Progress
 
-CasteWorks is a powerful custom WordPress framework designed to streamline the development of custom WordPress themes. This framework combines the strengths of Tailwind CSS, Alpine.js, and Timber to provide a flexible and efficient way to create unique and dynamic WordPress themes.
+CastleWorks is a powerful custom WordPress framework designed to streamline the development of custom WordPress themes. This framework combines the strengths of Tailwind CSS, Alpine.js, and Timber to provide a flexible and efficient way to create unique and dynamic WordPress themes.
 
 ## Features
 
 ### 1. Tailwind CSS Integration
 
-CasteWorks comes with Tailwind CSS pre-configured, allowing you to easily create stylish and responsive user interfaces. Tailwind's utility-first approach makes it simple to design and maintain your WordPress theme's styles.
+CastleWorks comes with Tailwind CSS pre-configured, allowing you to easily create stylish and responsive user interfaces. Tailwind's utility-first approach makes it simple to design and maintain your WordPress theme's styles.
 
 ### 2. Alpine.js for Interactivity
 
@@ -14,11 +14,11 @@ Alpine.js is included for adding interactivity to your WordPress themes. This li
 
 ### 3. Timber Templating Engine
 
-CasteWorks is built with Timber, which leverages the power of the Twig templating engine. This separation of logic and presentation ensures clean and maintainable code, making it easier to manage complex WordPress themes.
+CastleWorks is built with Timber, which leverages the power of the Twig templating engine. This separation of logic and presentation ensures clean and maintainable code, making it easier to manage complex WordPress themes.
 
 ### 4. Custom Post Types and Fields
 
-CasteWorks provides tools for creating custom post types and fields, allowing you to define and manage your data in a structured way within the WordPress admin interface.
+CastleWorks provides tools for creating custom post types and fields, allowing you to define and manage your data in a structured way within the WordPress admin interface.
 
 ### 5. Extensible and Developer-Friendly
 
