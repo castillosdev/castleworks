@@ -1,4 +1,4 @@
-# CasteWorks - Custom WordPress Framework
+# CasteWorks - Custom WordPress Framework -- In Progress
 
 CasteWorks is a powerful custom WordPress framework designed to streamline the development of custom WordPress themes. This framework combines the strengths of Tailwind CSS, Alpine.js, and Timber to provide a flexible and efficient way to create unique and dynamic WordPress themes.
 
