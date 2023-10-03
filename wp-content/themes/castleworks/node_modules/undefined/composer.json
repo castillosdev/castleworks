@@ -1,0 +1,21 @@
+{
+    "name": "your-name/your-custom-theme",
+    "description": "A custom WordPress theme using Timber, Tailwind CSS, and Alpine.js",
+    "type": "wordpress-theme",
+    "require": {
+        "timber/timber": "^2.x-dev"
+    },
+    "autoload": {
+        "files": ["functions.php"]
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "npm install --prefix ./wp-content/themes/castleworks"
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
